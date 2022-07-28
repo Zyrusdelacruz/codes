@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<head>
+<center><h1 class="a"> MY SECOND ACTIVITY </h1></center><hr>
+<center><h4 class="a"> Good day! Let's start THE HTML PRACTICE </h4></center><hr>
+<style>
+    h1.a{
+        color: black;
+        border: 3px ;
+        border-style: solid;
+        border-color: white;
+        background-color: orange;
+        text-shadow: 3px 2px 6px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+        }
+        h4.a{
+        text-shadow: 3px 2px 5px  blue;
+        background-color: white;
+        font-size: 20px;
+        }
+    p.a {
+        color: rgb(243, 62, 62);
+        text-align: justify;
+      
+    }
+    p.a1 {
+        color: rgb(243, 62, 62);
+        text-align: center;
+        font-size: 50px;
+    }
+    p.b {
+        color: rgb(50, 218, 78);
+        text-align: justify;
+      
+    }
+    p.b1 {
+        color: rgb(50, 218, 78);
+        text-align: center;
+        font-size: 50px;
+    }
+    p.c {
+        color: rgb(245, 8, 245);
+        text-align: justify;
+      
+    }
+    p.c1 {
+        color: rgb(245, 8, 245);
+        text-align: center;
+        font-size: 50px;
+    }
+    p.d {
+        color: rgb(124, 219, 231);
+        text-align: justify; 
+    }
+    p.d1 {
+        color: rgb(124, 219, 231);
+        text-align: center;
+        font-size: 50px;
+    }
+    p.e {
+        color: rgb(94, 255, 0);
+        text-align: justify; 
+    }
+    p.e1 {
+        color: rgb(94, 255, 0);
+        text-align: center;
+        font-size: 50px;
+    }
+td.a:hover{
+    background-color: #bcff1e;
+    color: #bcff1e;
+}
+td.b:hover{
+    background-color: #bcff1e;
+    color: #bcff1e;
+}
+
+td.c:hover{
+    background-color: #bcff1e;
+    color: #bcff1e;
+}
+
+td.d:hover{
+    background-color: #bcff1e;
+    color: #bcff1e;
+}
+
+td.e:hover{
+    background-color: #bcff1e;
+    color: #bcff1e;
+}
+img.a{
+    width: 75px;
+    height:75px;
+    border-radius: 50px;
+    margin-right: 600px;
+    margin-top:70px;
+}
+img.a:hover{
+    width: 75px;
+    height:75px;
+    border-radius: 50px;
+    margin-right: 600px;
+    margin-top:70px;
+    opacity: 0.9;
+    background-color: red;
+}
+
+
+</style>
+</head>
+
+<body>
+
+<body background="BG2.gif">
+<p class="a1">GOOGLE</p>
+<p class="a"> Google LLC is an American multinational technology company that focuses on artificial intelligence,[10] search engine, online advertising, cloud computing, computer software, quantum computing, e-commerce, and consumer electronics. It has been referred to as the "most powerful company in the world" and one of the world's most valuable brands due to its market dominance, data collection, and technological advantages in the area of artificial intelligence.[11][12][13][14] It is considered one of the Big Five American information technology companies, alongside Amazon, Apple, Meta, and Microsoft.
+    Google was founded on September 4, 1998, by Larry Page and Sergey Brin while they were PhD students at Stanford University in California. Together they own about 14% of its publicly listed shares and control 56% of the stockholder voting power through super-voting stock. The company went public via an initial public offering (IPO) in 2004. In 2015, Google was reorganized as a wholly owned subsidiary of Alphabet Inc. Google is Alphabet's largest subsidiary and is a holding company for Alphabet's Internet properties and interests. Sundar Pichai was appointed CEO of Google on October 24, 2015, replacing Larry Page, who became the CEO of Alphabet. On December 3, 2019, Pichai also became the CEO of Alphabet.[15]</p>
+</p><br>
+
+<p class="b1">INSTAGRAM</p>
+<p class="b"> Instagram[a] is an American photo and video sharing social networking service founded in 2010 by Kevin Systrom and Mike Krieger, and later acquired by Facebook Inc.. The app allows users to upload media that can be edited with filters and organized by hashtags and geographical tagging. Posts can be shared publicly or with preapproved followers. Users can browse other users' content by tag and location, view trending content, like photos, and follow other users to add their content to a personal feed.[10]
+    Instagram was originally distinguished by allowing content to be framed only in a square (1:1) aspect ratio of 640 pixels to match the display width of the iPhone at the time. In 2015, this restrictions was eased with an increase to 1080 pixels. It also added messaging features, the ability to include multiple images or videos in a single post, and a Stories feature—similar to its main competitor Snapchat—which allowed users to post their content to a sequential feed, with each post accessible to others for 24 hours. As of January 2019, Stories is used by 500 million people daily.</p>
+</p><br>
+
+<p class="c1">YOUTUBE</p>
+<p class="c"> YouTube is an American online video sharing and social media platform headquartered in San Bruno, California. It was launched on February 14, 2005, by Steve Chen, Chad Hurley, and Jawed Karim. Owned by Google, it is the second most visited website, right after Google itself. YouTube has more than one billion monthly users[7] who collectively watch more than one billion hours of videos each day.[8] As of May 2019, videos were being uploaded at a rate of more than 500 hours of content per minute.[9][10]
+    In October 2006, 18 months after posting its first video and 10 months after its official launch, YouTube was bought by Google for $1.65 billion.[11] Google's ownership of YouTube expanded the site's business model, expanding from generating revenue from advertisements alone, to offering paid content such as movies and exclusive content produced by YouTube. It also offers YouTube Premium, a paid subscription option for watching content without ads. YouTube and approved creators participate in Google's AdSense program, which seeks to generate more revenue for both parties. YouTube's reported revenue for 2020 was $19.8 billion.[12]</p>
+</p><br>
+
+<p class="d1">TWITTER</p>
+<p class="d">Twitter is an American microblogging and social networking service on which users post and interact with messages known as "tweets". Registered users can post, like, and retweet tweets, however, unregistered users have the ability to only read tweets that are publicly available. Users interact with Twitter through browser or mobile frontend software, or programmatically via its APIs. Prior to April 2020, services were accessible via SMS.[10] The service is provided by Twitter, Inc., a corporation based in San Francisco, California, and has more than 25 offices around the world.[11] Tweets were originally restricted to 140 characters, but the limit was doubled to 280 for non-CJK languages in November 2017.[12] Audio and video tweets remain limited to 140 seconds for most accounts.</p>
+</p><br>
+
+<p class="e1">GOOGLE CLASSROOM</p>
+<p class="e">Google Classroom is a free blended learning platform developed by Google for educational institutions that aims to simplify creating, distributing, and grading assignments. The primary purpose of Google Classroom is to streamline the process of sharing files between teachers and students.[3] As of 2021, approximately 150 million users use Google Classroom.[4]
+    Google Classroom integrates a variety of other Google Applications for Education, such as Google Docs, Google Sheets, Google Slides, Gmail, and Google Calendar into a cohesive platform to manage student and teacher communication. Students can be invited to join a class through a private "class code" or be imported automatically from a school domain. Teachers can create, distribute and mark assignments all within the Google domain. Each class creates a separate folder in the respective user's Google Drive, where the student can submit work to be graded by a teacher.</p>
+</p><br>
+<table border=""
+
+<tr>               
+<table style="border: 1px solid black; width: 50%; margin-left: auto;
+            margin-right: auto; margin-top: 2rem;">
+            <tr>
+            <th rowspan="6" style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 25px;">Search</th>
+            <th colspan="2" style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 25px;">Browser</th>
+            <th style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 25px;">Website</th>
+            <th style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 25px;">Links</th>
+            </tr>
+               
+		  <td style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;">Chrome</td>
+		  <td style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;">Firefox</td>
+		  <td style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;">Google</td> 
+		  <td class="a" style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;"><a href="https://google.com/">wwww.google.com/</a></td>
+		  </tr>
+		  <td style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;">Chrome</td>
+		  <td style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;">Firefox</td>
+		  <td style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;">Instagram</td> 
+		  <td class="b" style="border: 1px solid rgb(255, 255, 255); color: #B5FE83; font-size: 20px;"><a href="https://instagram.com">wwww.instagram.com</a></td>
+		  </tr>
+          <td style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;">Chrome</td>
+		  <td style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;">Firefox</td>
+		  <td style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;">Youtube</td> 
+		  <td class="c" style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;"><a href="https://youtube.com">www.youtube.com/</a></td>
+		  </tr>
+          <td style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;">Chrome</td>
+		  <td style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;">Firefox</td>
+		  <td style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;">Twitter</td> 
+		  <td class="d" style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;"><a href="https://twitter.com">www.twitter.com/</a></td>
+		  </tr>
+          <td style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;">Chrome</td>
+		  <td style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;">Firefox</td>
+		  <td style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;">Google Classroom</td> 
+		  <td class="e" style="border: 1px solid rgb(255, 255, 255); color: #bcff1e; font-size: 20px;"><a href="https://classroom.google.com/">www.Google Classroom.com/</a></td>
+		  </tr>
+         
+                 
+</center>
+</table>
+<center><img class="a"  src="home.png"><br></center>
+</body>
+</html>

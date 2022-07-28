@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+           
+        a.a{
+    
+    font-size: 50px;
+    font-style: italic;
+    text-shadow: 3px 2px 4px rgb(81, 255, 0);
+    color:red ;
+    
+    }
+    h1.a{
+        background-color:white;
+    font-size: 30px;
+    font-style: italic;
+    text-shadow: 3px 2px 4px rgb(200, 245, 0);
+    color: rgb(2, 0, 95);
+    }
+
+        </style>
+    </head>
+<body>
+<center>
+<body background="Bg.gif">
+<h1 class="a" style="font-size:50px;background-color: aquamarine"> MENU </h1>
+
+<br>
+<br>
+
+<a class = "a" href="file:///D:/ZY/3rd%20act.html">My Favorite Website</a>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br>
+
+<br>
+
+
+
+<a class = "a" href="file:///D:/ZY/4th%20act.html">Information about me!</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br>
+
+<br>
+<a class = "a" href="file:///D:/ZY/family.html">My family.</a>
+
+
+</center>
+</body>
+</html>
